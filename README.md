@@ -5,17 +5,17 @@ This is a simple Spring Boot REST API for managing users with basic CRUD operati
 
 1. Features :
 
-  . Add a new user
+     . Add a new user
 
-  . List all users
+     . List all users
 
-  . Get user by ID
+     . Get user by ID
 
-  . Update a user
+     . Update a user
 
-  . Delete a user
+     . Delete a user
 
-  . Optional JSON file persistence to save users
+     . Optional JSON file persistence to save users
 
 
 2. Prerequisites :
