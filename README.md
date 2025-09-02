@@ -29,9 +29,9 @@ This is a simple Spring Boot REST API for managing users with basic CRUD operati
 
 3. Setup & Running the Server :
 
-     step 1 : clone the repository
-     step 2 : build the project
-     step 3 : start the server
+       step 1 : clone the repository
+       step 2 : build the project
+       step 3 : start the server
 
         The server will run at: http://localhost:8080
 
