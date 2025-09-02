@@ -40,9 +40,9 @@ This is a simple Spring Boot REST API for managing users with basic CRUD operati
 
     4.1 Add User
    
-      . Method: POST
-      . URL: /users/add
-      . Request Body Example:
+        . Method: POST
+        . URL: /users/add
+        . Request Body Example:
             {
               "name": "vaibhav",
               "email": "vaibhav@example.com"
