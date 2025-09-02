@@ -22,9 +22,9 @@ This is a simple Spring Boot REST API for managing users with basic CRUD operati
 
      * Before running the server, ensure you have the following installed :
 
-       . Java 17 or higher
-       . Maven (build tool)
-       . Optional: IDE like IntelliJ IDEA or VS Code for development.
+           . Java 17 or higher
+           . Maven (build tool)
+           . Optional: IDE like IntelliJ IDEA or VS Code for development.
 
 
 3. Setup & Running the Server :
